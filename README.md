@@ -1,1 +1,1 @@
-https://github.com/anas-abusaif/django-snacks
+https://github.com/anas-abusaif/django-snacks/pull/1
